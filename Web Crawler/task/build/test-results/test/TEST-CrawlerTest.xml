@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CrawlerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-07T10:11:29" hostname="LAPTOP-ROJRQRDO" time="0.835">
+  <properties/>
+  <testcase name="start" classname="CrawlerTest" time="0.835"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+?[1;31m
+Start test 2?[0m
+?[1;31m
+Start test 3?[0m
+?[1;31m
+Start test 4?[0m
+?[1;31m
+Start test 5?[0m
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
