@@ -513,6 +513,13 @@ files:
         }
     }
   learner_created: false
+- name: temp.log
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/59/stages/321/implement
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations! Continue on <a href="https://hyperskill.org/projects/59/stages/321/implement">JetBrains
+    Academy</a>
+  time: Thu, 08 Oct 2020 16:36:13 UTC
 record: -1

@@ -3,9 +3,7 @@ package crawler;
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
 import java.awt.event.ActionListener;
-import java.io.BufferedInputStream;
-import java.io.FileNotFoundException;
-import java.io.InputStream;
+import java.io.*;
 import java.net.URL;
 import java.net.URLConnection;
 import java.util.ArrayList;
@@ -37,6 +35,37 @@ public class WebCrawler extends JFrame {
         titleTable.setFillsViewportHeight(true);
         titleTable.setName("TitlesTable");
 
+        JTextField exportFileUrlTextField = new JTextField();
+        exportFileUrlTextField.setName("ExportUrlTextField");
+
+        JButton exportButton = new JButton("Export");
+        exportButton.setName("ExportButton");
+        exportButton.addActionListener(e->{
+            String fileLocation = exportFileUrlTextField.getText();
+            if(fileLocation.isEmpty())
+                return;
+
+            new SwingWorker<>(){
+
+                @Override
+                protected Object doInBackground(){
+                    try(BufferedOutputStream bos = new BufferedOutputStream(
+                            new FileOutputStream(new File(fileLocation))
+                    )){
+                        int size = titleTableModel.getRowCount();
+                        for(int i=0;i<size;i++) {
+                            bos.write(
+                                    String.valueOf(titleTableModel.getValueAt(i,0)+"\n").getBytes());
+                            bos.write(
+                                    String.valueOf(titleTableModel.getValueAt(i,1)+"\n").getBytes());
+                        }
+                    }catch (Exception e){
+                        e.printStackTrace();
+                    }
+                    return null;
+                }
+            }.execute();
+        });
         JTextArea htmlTextArea = new JTextArea();
         htmlTextArea.setName("HtmlTextArea");
         htmlTextArea.setEnabled(false);
@@ -75,6 +104,7 @@ public class WebCrawler extends JFrame {
                                 link = url.substring(0,url.indexOf(':')+1) +link;
                             }
                             URLConnection urlConnection = new URL(link).openConnection();
+                            urlConnection.setRequestProperty("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0");
                             try(InputStream crawledUrlStream = urlConnection.getInputStream()) {
                                 if (urlConnection.getContentType() == null) {
                                     titleTableData.add(new String[]{link, ""});
@@ -118,6 +148,8 @@ public class WebCrawler extends JFrame {
         add(topPanel);
         add(titleLabel);
         add(titleTableScrollPane);
+        add(exportFileUrlTextField);
+        add(exportButton);
         //add(htmlTextArea);
 
 

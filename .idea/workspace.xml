@@ -5,56 +5,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c73e669b-00a7-4ba4-81e4-b5015f73a13b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Web Crawler/task/Web_Crawler.Web_Crawler-task.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Web Crawler/task/Web_Crawler.Web_Crawler-task.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Web Crawler/task/Web_Crawler.Web_Crawler-task.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/util/Web_Crawler.util.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/util/Web_Crawler.util.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/util/Web_Crawler.util.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web Crawler/task/test/common/WebCrawlerStage5Test.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/jarAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_11.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Web Crawler/task/Web_Crawler-task.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Web Crawler/task/Web_Crawler-task.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Web Crawler/task/Web_Crawler-task_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Web Crawler/task/Web_Crawler-task_main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Web Crawler/task/Web_Crawler-task_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Web Crawler/task/Web_Crawler-task_test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/util/util.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/util/util.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web Crawler/Collect them all!/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Web Crawler/Collect them all!/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web Crawler/Titles/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Web Crawler/Titles/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Crawler/Collect them all!/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Web Crawler/Collect them all!/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Crawler/Complicated matters/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Web Crawler/Complicated matters/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Crawler/Crawl through the window/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Web Crawler/Crawl through the window/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Crawler/Links, links/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Web Crawler/Links, links/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Crawler/Save the results/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Web Crawler/Save the results/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Crawler/Save the results/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Web Crawler/Save the results/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Crawler/Titles/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Web Crawler/Titles/task-remote-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web Crawler/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Web Crawler/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Crawler/task/build/classes/java/main/crawler/WebCrawler$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Web Crawler/task/build/classes/java/main/crawler/WebCrawler$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web Crawler/task/build/classes/java/main/crawler/WebCrawler.class" beforeDir="false" afterPath="$PROJECT_DIR$/Web Crawler/task/build/classes/java/main/crawler/WebCrawler.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web Crawler/task/build/classes/java/test/CrawlerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Web Crawler/task/build/classes/java/test/CrawlerTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web Crawler/task/build/classes/kotlin/test/META-INF/Web_Crawler-task.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/Web Crawler/task/build/classes/kotlin/test/META-INF/Web_Crawler-task.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web Crawler/task/build/classes/kotlin/test/common/WebCrawlerStage3Test$generate$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web Crawler/task/build/classes/kotlin/test/common/WebCrawlerStage3Test$generate$getButton$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web Crawler/task/build/classes/kotlin/test/common/WebCrawlerStage3Test$generate$htmlText$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web Crawler/task/build/classes/kotlin/test/common/WebCrawlerStage3Test$generate$titleLabel$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web Crawler/task/build/classes/kotlin/test/common/WebCrawlerStage3Test$generate$urlText$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web Crawler/task/build/classes/kotlin/test/common/WebCrawlerStage3Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web Crawler/task/build/classes/kotlin/test/common/WebCrawlerStage3TestKt$stage2Tests$1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web Crawler/task/build/classes/kotlin/test/common/WebCrawlerStage3TestKt$stage2Tests$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web Crawler/task/build/classes/kotlin/test/common/WebCrawlerStage3TestKt$stage3Tests$1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web Crawler/task/build/classes/kotlin/test/common/WebCrawlerStage3TestKt$stage3Tests$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web Crawler/task/build/classes/kotlin/test/common/WebCrawlerStage3TestKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Crawler/task/build/classes/kotlin/test/common/WebCrawlerStage4Test$generate$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Crawler/task/build/classes/kotlin/test/common/WebCrawlerStage4Test$generate$getButton$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Crawler/task/build/classes/kotlin/test/common/WebCrawlerStage4Test$generate$titleLabel$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Crawler/task/build/classes/kotlin/test/common/WebCrawlerStage4Test$generate$titlesTable$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Crawler/task/build/classes/kotlin/test/common/WebCrawlerStage4Test$generate$urlText$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Crawler/task/build/classes/kotlin/test/common/WebCrawlerStage4Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Crawler/task/build/classes/kotlin/test/common/WebCrawlerStage4TestKt$stage3Tests$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Crawler/task/build/classes/kotlin/test/common/WebCrawlerStage4TestKt$stage3Tests$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Crawler/task/build/classes/kotlin/test/common/WebCrawlerStage4TestKt$stage4Tests$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Crawler/task/build/classes/kotlin/test/common/WebCrawlerStage4TestKt.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Web Crawler/task/build/kotlin/compileTestKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Web Crawler/task/build/kotlin/compileTestKotlin/build-history.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web Crawler/task/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab" beforeDir="false" afterPath="$PROJECT_DIR$/Web Crawler/task/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web Crawler/task/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/Web Crawler/task/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
@@ -82,8 +70,10 @@
       <change beforePath="$PROJECT_DIR$/Web Crawler/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/subtypes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Web Crawler/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/subtypes.tab.values.at" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web Crawler/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/Web Crawler/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web Crawler/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/Web Crawler/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Crawler/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab" beforeDir="false" afterPath="$PROJECT_DIR$/Web Crawler/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web Crawler/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/Web Crawler/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.keystream" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web Crawler/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/Web Crawler/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Crawler/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab" beforeDir="false" afterPath="$PROJECT_DIR$/Web Crawler/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web Crawler/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Web Crawler/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web Crawler/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab" beforeDir="false" afterPath="$PROJECT_DIR$/Web Crawler/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web Crawler/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/Web Crawler/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
@@ -99,10 +89,11 @@
       <change beforePath="$PROJECT_DIR$/Web Crawler/task/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Web Crawler/task/build/test-results/test/binary/output.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web Crawler/task/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/Web Crawler/task/build/test-results/test/binary/output.bin.idx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web Crawler/task/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Web Crawler/task/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Crawler/task/out/production/classes/crawler/WebCrawler$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Web Crawler/task/out/production/classes/crawler/WebCrawler$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web Crawler/task/out/production/classes/crawler/WebCrawler.class" beforeDir="false" afterPath="$PROJECT_DIR$/Web Crawler/task/out/production/classes/crawler/WebCrawler.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web Crawler/task/src/crawler/WebCrawler.java" beforeDir="false" afterPath="$PROJECT_DIR$/Web Crawler/task/src/crawler/WebCrawler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web Crawler/task/test/CrawlerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Web Crawler/task/test/CrawlerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web Crawler/task/test/common/WebCrawlerStage3Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Web Crawler/task/test/common/WebCrawlerStage4Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Crawler/task/test/common/WebCrawlerStage4Test.kt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -127,6 +118,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../course/course" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.inlinked.gradle.project.popup" value="false" />
   </component>
@@ -169,6 +161,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1602078839812" />
+    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser" timestamp="1602173926788">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1602173926788" />
     <state x="449" y="151" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1602065446126">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -177,26 +173,34 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1602081112666" />
-    <state width="1134" height="210" key="GridCell.Tab.0.bottom" timestamp="1602153763350">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1602156020325">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1134" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602153763350" />
-    <state width="1134" height="210" key="GridCell.Tab.0.center" timestamp="1602153763350">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602156020325" />
+    <state width="1133" height="210" key="GridCell.Tab.0.bottom" timestamp="1602174921366">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1134" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602153763350" />
-    <state width="1134" height="210" key="GridCell.Tab.0.left" timestamp="1602153763350">
+    <state width="1133" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602174921366" />
+    <state width="1133" height="210" key="GridCell.Tab.0.center" timestamp="1602174921366">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1134" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602153763350" />
-    <state width="1134" height="210" key="GridCell.Tab.0.right" timestamp="1602153763350">
+    <state width="1133" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602174921366" />
+    <state width="1133" height="210" key="GridCell.Tab.0.left" timestamp="1602174921366">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1134" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602153763350" />
+    <state width="1133" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602174921366" />
+    <state width="1133" height="210" key="GridCell.Tab.0.right" timestamp="1602174921366">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1133" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602174921366" />
     <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1602134832167">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1602134832167" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1602174127402">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1602174127402" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Web_Crawler$ApplicationRunner.ic" NAME="ApplicationRunner Coverage Results" MODIFIED="1602080273528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
